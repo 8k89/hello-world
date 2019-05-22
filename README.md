@@ -1,2 +1,8 @@
 # hello-world
-Writing a project by c or cpp. 
+#include <stdio.h>
+
+int main()
+{
+  printf("hello word");
+  return 0;
+}
